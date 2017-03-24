@@ -1,0 +1,6 @@
+src/org/objectweb/
+bin/
+obfuscated/
+*.gz
+
+*.jar
